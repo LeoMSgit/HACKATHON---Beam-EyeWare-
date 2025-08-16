@@ -1,6 +1,6 @@
 # ProGamer Eye Trainer
 
-An experimental **eye-tracking training game** built with **Python, Pygame, and the EyeWare Beam SDK**. The game helps improve eye–hand coordination and reaction time by tracking gaze points and comparing them to a moving target on the screen.
+An experimental **eye-tracking training game** built with **Python, Pygame, and the EyeWare Beam SDK**. The game helps improve and track eye coordination and reaction time by tracking gaze points and comparing them to a moving target on the screen.
 
 ## Features
 
